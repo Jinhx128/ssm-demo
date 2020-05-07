@@ -1,5 +1,5 @@
 # 项目简介
-<b>基于 Spring+SpringMVC+MyBatis 的整合搭建</b>
+<b>基于 Spring+SpringMVC+MyBatis 的框架搭建。</b>
 
 # 参考教程
 |序号|文章标题|
